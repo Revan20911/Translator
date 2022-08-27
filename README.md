@@ -27,4 +27,9 @@ Translation of text after processing the image through the application
 - Improve the time it takes for the application to translate and output the text to the screen. (currently this takes about 5 - 10 seconds).
 - Improve translation accuracy by implementing ML technologies to better recognize and interpret slang and onomatopoeia. 
 
+## Planned Additions
+
+- Create a web-version of this application that can translate text from drag-and-dropped images
+
+
 
