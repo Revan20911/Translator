@@ -7,8 +7,7 @@ That transalation is then printed onto the application window.
 
 better GUI and add support for a dark and light theme.
 
-
-**Example:**
+## Example
 
 Raw text of "Mushoku Tensei" by Rifujin Na Magonote
 Source:https://ncode.syosetu.com/n9669bk/
@@ -20,14 +19,14 @@ Translation of text after processing the image through the application
 ![image](https://user-images.githubusercontent.com/47538097/166158286-ead3063c-5820-4f77-acdd-f668885ca048.png)
 
 
-**Future Changes:**
+
+## Planned Additions
 
 - Have the application clear and reprint the translation if the image displayed on the active window changes. 
 - Add support for different languages.
 - Improve the time it takes for the application to translate and output the text to the screen. (currently this takes about 5 - 10 seconds).
 - Improve translation accuracy by implementing ML technologies to better recognize and interpret slang and onomatopoeia. 
 
-## Planned Additions
 
 - Create a web-version of this application that can translate text from drag-and-dropped images
 
